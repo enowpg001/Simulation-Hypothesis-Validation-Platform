@@ -10,6 +10,11 @@ path = 'contracts/creator-communication-attempt.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.ethical-simulated-life]
+path = 'contracts/ethical-simulated-life.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.reality-consistency-check]
 path = 'contracts/reality-consistency-check.clar'
 clarity_version = 2
