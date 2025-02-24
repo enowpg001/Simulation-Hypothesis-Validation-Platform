@@ -7,3 +7,5 @@ X
 .gitattributes,2/4/24139dae656713ba861751fb2c2ac38839349a7a
 W
 'tests/reality-consistency-check.test.ts,f/f/fffd0d32b1d1b078d396bfeda6d4f618a69912c2
+Z
+*contracts/simulation-boundary-testing.clar,0/e/0e42ae7896412d59c1fd17fb3d8d6599a9b919c5
