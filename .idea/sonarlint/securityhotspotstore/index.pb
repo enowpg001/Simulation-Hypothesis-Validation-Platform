@@ -9,3 +9,5 @@ W
 'tests/reality-consistency-check.test.ts,f/f/fffd0d32b1d1b078d396bfeda6d4f618a69912c2
 Z
 *contracts/simulation-boundary-testing.clar,0/e/0e42ae7896412d59c1fd17fb3d8d6599a9b919c5
+Y
+)tests/simulation-boundary-testing.test.ts,f/9/f926623b7ac61a986f1d8e9eee70c05735f87534
