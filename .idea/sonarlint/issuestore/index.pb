@@ -15,3 +15,5 @@ Y
 ,contracts/creator-communication-attempt.clar,9/a/9a486347cf990bd4288f6bcd64679dec974406ec
 U
 %contracts/ethical-simulated-life.clar,7/f/7f1870c9dbff3a89b6e36f0a971d35f20b701d95
+T
+$tests/ethical-simulated-life.test.ts,4/d/4d8ec6d541241ca8387007b25c215271c7475a6f
